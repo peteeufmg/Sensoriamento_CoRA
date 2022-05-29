@@ -2,6 +2,7 @@
 O sistema de sensoriamento remoto da CoRA foi criado pelo PETEE para monitorar a passagem dos robôs seguidores de linha pelos checkpoins da pista da CoRA.
 
 Mantido por: Pedro Otávio Fonseca Pires
+
 e-mail: piresopd@gmail.com
 
 
